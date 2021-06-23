@@ -1,2 +1,2 @@
 # hackerrank
-You can find solution about c programming algrotihms from HackerRank.
+You can find the solutions about C Programming algorithms with different level of difficulty from HackerRank.
