@@ -1,1 +1,1 @@
-This function is consisted of with two operation:summation and subtraction.Given two variables results is transferred to the pointers.
+This function is consisted of with two operation:summation and subtraction.Given two variables results are transferred to the pointers.
